@@ -1,1 +1,1 @@
-##Removes GameBar and All It's Services.
+# Removes GameBar and All It's Services.
