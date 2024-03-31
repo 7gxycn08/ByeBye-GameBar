@@ -1,4 +1,3 @@
-## AveYo: fix ms-gamebar annoyance after uninstalling Xbox
 Write-Output "Removing Gambar Please Wait..."
 reg add HKCR\ms-gamebar /f /ve /d URL:ms-gamebar 2>&1 >''
 reg add HKCR\ms-gamebar /f /v "URL Protocol" /d "" 2>&1 >''
